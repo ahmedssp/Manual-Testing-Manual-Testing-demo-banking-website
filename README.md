@@ -1,4 +1,4 @@
-# Manual-Testing-Manual-Testing-demo-banking-website
+# Manual-Testing-demo-banking-website
  Analyzing the SRS requirements
 
  Do some exploratory testing on Mockups for the Guru99 Bank website.
